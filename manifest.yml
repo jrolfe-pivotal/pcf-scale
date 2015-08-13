@@ -1,5 +1,5 @@
 ---
 applications:
-- name: scalelikeaboss
+- name: scalelikeaboss-v2
   path: target/pcf-overview-0.1.0.jar
   memory: 600M
